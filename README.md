@@ -1,7 +1,7 @@
 # My-Portfolio
 Portfolio created through Crio : https://anupamsanidhyacrio.netlify.app/
 
-###Components/Frameworks used -###
+## Components/Frameworks used -
 
 * HTML (Frontend) - HTML is the standard language used to create webpage content.
 

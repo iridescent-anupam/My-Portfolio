@@ -1,6 +1,6 @@
 # Profile Backend
 
-Provide the PORT variable using echo PORT=8082 > .env. The server will pick up the port number from this file (.env), which is used for environment variables
+Provide the PORT variable using `echo PORT=8082 > .env`. The server will pick up the port number from this file (.env), which is used for environment variables
 
 ## Testing
 
