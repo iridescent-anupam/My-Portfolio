@@ -39,7 +39,7 @@ netlify deploy --dir=public --prod
 ```
 
 The Projects section code is executed every time the webpage is loaded. The code structure resembles the following :
-    * Make REST API call to Github using the GITHUB_TOKEN environment variable.
-    * If the API call succeeds and data has been fetched, display the Projects section, otherwise hide it.
+* Make REST API call to Github using the GITHUB_TOKEN environment variable.
+* If the API call succeeds and data has been fetched, display the Projects section, otherwise hide it.
 
 We can check that the entries made on the FrontEnd are being stored in the Backend by using `curl https://<backend_host_on_heroku>/entries` which will return the list of all contact details submitted.
