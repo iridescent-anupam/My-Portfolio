@@ -23,6 +23,9 @@ export const Intro = () => {
         <Details theme={theme}>
           <h1>{greeting}</h1>
           <h4>{greetingDescription}</h4>
+          <h3>B.Tech Information Technology</h3>
+          <h2>Indian Institute of Engineering Science and Technology, Shibpur</h2>
+          <h3>2017-21</h3>
           <div>
             <Button as={AnchorLink} href="#contact" className="hire-me">
               Hire me

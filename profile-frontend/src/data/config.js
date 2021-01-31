@@ -6,5 +6,5 @@ module.exports = {
   greetingDescription: "I'm Anupam Sanidhya and I'm a Software Engineer!",
   githubUrl: "https://github.com/iridescent-anupam",
   linkedinUrl: "https://www.linkedin.com/in/anupamsanidhya/",
-  cvLink: "https://docs.google.com/document/d/1E1234561NMyQA67890ygda7abcdefghijs1jBp7HFI0/",
+  cvLink: "https://drive.google.com/file/d/1qz_0Qi4r4NnYLtFAigQ_fwfjSgK-IBY-/view?usp=sharing",
 };
